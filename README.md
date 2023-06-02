@@ -13,4 +13,4 @@
 ##### This lab simulated an operating system's virtual memory management unit. [mmu.cpp](mmu/mmu.cpp) contains the C++ code and [lab3-mmu-spring23.pdf](mmu/lab3-mmu-spring23.pdf) explains the assignment in detail.
 
 ## Lab 4: IO Scheduler
-##### This lab simulated an operating system's IO scheduler of reading blocks from a disk. [iosched.cpp](iosched/iosched.cpp) contains the C++ code and lab4-iosched-spring23.pdf explains the assignment in detail.
+##### This lab simulated an operating system's IO scheduler of reading blocks from a disk. [iosched.cpp](iosched/iosched.cpp) contains the C++ code and [lab4-iosched-spring23.pdf](iosched/lab4-iosched-spring23.pdf) explains the assignment in detail.
