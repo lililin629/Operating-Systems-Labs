@@ -7,7 +7,7 @@
 ##### This lab simulated the creation of a linker to link relative memory locations of multiple modules into a single executable. [linker/linker.cpp](linker.cpp) contains the C++ code and [lab1-linker-spring23.pdf](linker/lab1-linker-spring23.pdf) explains the assignment in detail.
 
 ## Lab 2: Scheduler
-##### This lab simulated an operating system's thread/process scheduler using an array of different scheduling schemes. scheduler.cpp contains the C++ code and [lab2-sched-spring23.pdf](scheduler/lab2-sched-spring23.pdf) explains the assignment in detail.
+##### This lab simulated an operating system's thread/process scheduler using an array of different scheduling schemes. [scheduler.cpp](scheduler/scheduler.cpp) contains the C++ code and [lab2-sched-spring23.pdf](scheduler/lab2-sched-spring23.pdf) explains the assignment in detail.
 
 ## Lab 3: Virtual Memory Management
 ##### This lab simulated an operating system's virtual memory management unit. mmu.cpp contains the C++ code and lab3-mmu-spring23.pdf explains the assignment in detail.
