@@ -10,7 +10,7 @@
 ##### This lab simulated an operating system's thread/process scheduler using an array of different scheduling schemes. [scheduler.cpp](scheduler/scheduler.cpp) contains the C++ code and [lab2-sched-spring23.pdf](scheduler/lab2-sched-spring23.pdf) explains the assignment in detail.
 
 ## Lab 3: Virtual Memory Management
-##### This lab simulated an operating system's virtual memory management unit. [mmu.cpp](mmu/mmu.cpp) contains the C++ code and [lab3-mmu-spring23.pdf] explains the assignment in detail.
+##### This lab simulated an operating system's virtual memory management unit. [mmu.cpp](mmu/mmu.cpp) contains the C++ code and [lab3-mmu-spring23.pdf](mmu/lab3-mmu-spring23.pdf) explains the assignment in detail.
 
 ## Lab 4: IO Scheduler
 ##### This lab simulated an operating system's IO scheduler of reading blocks from a disk. iosched.cpp contains the C++ code and lab4-iosched-spring23.pdf explains the assignment in detail.
